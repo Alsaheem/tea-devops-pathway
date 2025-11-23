@@ -1,5 +1,8 @@
 # tea-devops-pathway
 
+https://docs.google.com/document/d/18b_4MHhztcohQiMfBSPgdZeg7hDOAv21GWixQ9EDIsI/edit?tab=t.0#heading=h.6f413q6fwgj1
+
+
 # DevOps Beginner Pathway — Topics → Practical Projects
 
 * * *
